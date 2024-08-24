@@ -1,6 +1,6 @@
 # *Você é do tamanho do seus sonhos* ☁️
 
-* 👨🏾‍💻 Atualmente estudando Front-end (HTML,CSS,Javascript)
+* 👨🏾‍💻 Atualmente estudando Back-end (Java,SpringBoot)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

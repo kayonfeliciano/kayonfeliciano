@@ -1,14 +1,14 @@
-# "What you think, you become. What you feel, you attract. What you imagine, you create." ✨
+# Estudante de Análise de Dados 📊
 
-🎓 **Data Analytics Student**
+> *"O que você pensa, você se torna. O que você sente, você atrai. O que você imagina, você cria."* ✨
 
-I am currently starting my journey in Data Analytics, focusing on building strong foundations in analytical thinking, logic, and core data concepts.
+Estou iniciando minha jornada em Análise de Dados, focado em construir uma base sólida em raciocínio analítico, lógica e conceitos fundamentais de dados.
 
 ---
 
-### 🔍 Current Focus
-- Understanding data fundamentals & logic
-- Learning step-by-step to turn data into meaningful insights
-- Open to learning, growing, and collaborating
+### 🔍 Foco Atual
+- Compreensão dos fundamentos de dados e lógica
+- Aprendendo passo a passo a transformar dados em insights valiosos
+- Aberto a aprender, evoluir e colaborar
 
 ---

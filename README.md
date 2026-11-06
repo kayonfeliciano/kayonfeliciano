@@ -1,4 +1,4 @@
-# *"What you think, you become. What you feel, you attract. What you imagine, you create." -Buddha * ☁️
+# *What you think, you become. What you feel, you attract. What you imagine, you create.-Buddha * 
 
 🎓 **Data Analytics Student**
 

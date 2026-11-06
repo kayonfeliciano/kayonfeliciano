@@ -12,5 +12,3 @@ I am currently starting my journey in Data Analytics, focusing on building stron
 - Open to learning, growing, and collaborating
 
 ---
-
-⚡ *Turning curiosity into knowledge, one step at a time.*
